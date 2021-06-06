@@ -20,7 +20,7 @@ title                    : "MAPS TeamBlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Team MAPS"
-description              : "We interested in Autopilot and Artificial Information."
+description              : "We interested in Autopilot and Artificial Intelligence."
 url                      : "https://teammaps99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
