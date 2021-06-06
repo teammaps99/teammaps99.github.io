@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About Team"
+    url: /Teams/
+  - title: "Study"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Project"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Contact"
+    url: https://www.notion.so/Make-Auto-Pilot-Study-M-A-P-S-d214b8f7bdb64b1ab0953cbe4d8c2650
